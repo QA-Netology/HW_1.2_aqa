@@ -1,1 +1,1 @@
-**Project Sample**  [![Build status](https://ci.appveyor.com/api/projects/status/kfytodw8535j9jje?svg=true)](https://ci.appveyor.com/project/QA-Netology/hw-1-2-aqa-sew3i)
+<font size = 5>**Project Sample**  [![Build status](https://ci.appveyor.com/api/projects/status/kfytodw8535j9jje?svg=true)](https://ci.appveyor.com/project/QA-Netology/hw-1-2-aqa-sew3i)
